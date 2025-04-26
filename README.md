@@ -3,7 +3,7 @@ In this project, I explored the relationship between median incomes and the cost
 
 # Tools and technology
 - Excel
-- Crisp DM
+- CRISP DM
 - Data cleaning and transformation
 -  Regression
 -   U.S. Census Buraeu Data
